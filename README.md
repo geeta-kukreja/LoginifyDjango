@@ -10,12 +10,12 @@ This project implements a simple **User Authentication System** in Django, suppo
 
 ## 📌 **Setup Instructions**
 1. Clone the repo and navigate to the project:  
-   ```bash
-   git clone [<YOUR_GITHUB_REPO_URL>](https://github.com/geeta-kukreja/LoginifyDjango)
-   cd LoginSystem
+```bash
+git clone [<YOUR_GITHUB_REPO_URL>](https://github.com/geeta-kukreja/LoginifyDjango)
+cd LoginSystem
 ```
-2.Create a virtual environment and install dependencies:
- ```bash
+2. Create a virtual environment and install dependencies:
+```bash
 python -m venv DjangoAssignment
 source DjangoAssignment/bin/activate  # On Mac/Linux
 DjangoAssignment\Scripts\activate  # On Windows
